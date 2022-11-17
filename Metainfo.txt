@@ -1,0 +1,13 @@
+Name of Quantlet : DEDA_MachineLearning
+Published in : SDA_2022_St_Gallen
+
+Output :
+- Plot Model Accuracy and Model Loss
+
+
+Keywords :
+- Python
+- Machine learning
+
+
+Author : Josef Gitterle
